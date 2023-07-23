@@ -1,2 +1,0 @@
-# bankmas
-test bank MAS
